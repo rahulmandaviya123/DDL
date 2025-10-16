@@ -1,4 +1,4 @@
-# 🧠 DLT_Root: End-to-End Data Pipeline using Databricks Delta Live Tables
+# End-to-End Data Pipeline using Databricks Delta Live Tables
 
 ## 🚀 Project Overview
 This project demonstrates how to design and implement a **real-world data engineering pipeline** using **Databricks Delta Live Tables (DLT)** on Azure.  
